@@ -14,6 +14,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
     - [Editor Integration](#editor-integration)
     - [Game Engine](#game-engine)
     - [Graphics](#graphics)
+    - [GUI](#gui)
     - [Hardware](#hardware)
     - [Images](#images)
     - [Javascript](#javascript)
@@ -108,6 +109,11 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [Chart.qml](https://github.com/qyvlik/Chart.qml) - Chart.qml like Chart.js.
 * [qml-ogdf](https://github.com/schulzch/qml-ogdf) - This plug-in provides a binding of Open Graph Drawing Framework to QtQML (Version 5.0+).
 * [qml_framerate](https://github.com/vannell/qml_framerate) - Display QML Window frame rate (FPS).
+
+## GUI
+* [FrameLessWidget](https://github.com/Bringer-of-Light/Qt-Nice-Frameless-Window)Qt Frameless Window for both Windows and OS X, support Aero Snap, drop shadow on Windows, and support Native Style such as round corner, drop shadow on OS X. Based on QMainWindow. 
+* [Docking](https://github.com/JackyDing/QtFlex5) Flexible and dockable widgets for Qt5, like Visual Studio 201x user interface. 
+* [Update](Qt wrapper around Sparkle and WinSparkle) Qt wrapper around Sparkle and WinSparkle 
 
 ## Hardware
 * [qml-cvcamera](https://github.com/chili-epfl/qml-cvcamera) - CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
