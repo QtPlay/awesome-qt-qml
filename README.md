@@ -2,6 +2,7 @@
 A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) and other awesome lists.
 
 - [Awesome Qt/QML](#awesome-qt-qml)
+    - [org](#org)
     - [Android](#android)
     - [Apple iOS](#apple-ios)
     - [Async](#async)
@@ -31,8 +32,13 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
     - [Visualization](#visualization)
     - [Web Frameworks](#web-frameworks)
     - [X11/Wayland](#x11-wayland)
+
 - [Software](#software)
 
+## org
+[e-fever](https://github.com/e-fever) qml, qt
+[liri](https://github.com/lirios) An OS and apps built with modern design and features
+[frida](https://github.com/frida) Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS, Android, and QNX.
 ## Android
 * [androidnative.pri](https://github.com/benlau/androidnative.pri) - Calling Android functions from Qt without using JNI.
 * [quickandroid](https://github.com/benlau/quickandroid) - QML Theme and Component Library for Android.
@@ -257,7 +263,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 ## Visualization
 * [QuickVtk](https://github.com/qCring/QuickVtk) - A VTK prototyping application based on QtQuick/QML.
 * [quickqanava](http://www.destrat.io/quickqanava/) - C++14 network/graph visualization library ([source](https://github.com/cneben/QuickQanava)).
-
+* [GraphMIC](https://github.com/GraphMIC/GraphMIC)  Medical Image viewer based on QML and MITK
 ## Web Frameworks
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
 
@@ -284,3 +290,6 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [TelegramQML](https://github.com/Aseman-Land/TelegramQML) - Telegram API tools for QtQml and Qml. It's based on Cutegram-Core and libqtelegram.
 * [qmlvncviewer](https://github.com/heroyin/qmlvncviewer) - VNC viewer component by qt quick.
 * [harbour-sailfinder](https://github.com/modulebaan/harbour-sailfinder) - Sailfinder source code & bug tracker.
+
+# cloud
+* [libcloudstorage](https://github.com/dbtdsilva/libcloudstorage-gsoc) client lib for cloud storage
